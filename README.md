@@ -1,3 +1,16 @@
+remove_images_test
+==================
+
+## Description
+
+Remove all registered images
+
+## Procedure
+
+1. De-register all the images from Walrus
+2. Run the deregister commands again to completely remove the images
+
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
